@@ -1,3 +1,5 @@
+package array;
+
 public class Demo_01 {
   public static void main(String[] args) {
     int lineNum = 5;
